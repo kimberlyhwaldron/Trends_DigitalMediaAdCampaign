@@ -1,20 +1,6 @@
 
----
-title: "<center> Digital Media Ad Campaign</center>"
-subtitle: "<center>Performance Analysis & Recommendations</center>"
-author: "<center> Kimberly Healy  |  healy.kim@gmx.us </center>"
-output: 
-  html_document:
-  toc: true
-toc_depth: 2
+# Digital Media Ad Campaign <br> Performance Analysis & Recommendations <br> Kimberly Healy  |  healy.kim@gmx.us
 
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-
----
   
 ## Background
   The data (DigitalMediaCampaign.xlsx) come from a digital campaign that included banners, digital video, and rich media advertisements. This report provides insight into the campaign performance.  The variables in the raw data set include:   
