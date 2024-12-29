@@ -1,5 +1,5 @@
 
-# Digital Media Ad Campaign <br> Performance Analysis & Recommendations <br> Kimberly Healy  |  healy.kim@gmx.us
+# Digital Media Ad Campaign <br> Performance Analysis & Recommendations <br> Kimberly Waldron  |  kimberly.h.waldron@gmail.com
 
   
 ## Background
